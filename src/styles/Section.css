@@ -1,0 +1,17 @@
+.home__ground {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.button__group {
+  justify-content: center;
+  align-items: center;
+}
+
+.down__arrow {
+  height: 40px;
+  animation: animateDown infinite 1.5s;
+}
